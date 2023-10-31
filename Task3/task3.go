@@ -16,4 +16,8 @@ func main() {
 
 	}
 
+	for i := 1; i <= age; i++ {
+		fmt.Println(i)
+	}
+
 }
