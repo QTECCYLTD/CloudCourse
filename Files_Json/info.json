@@ -1,0 +1,14 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "1234567890",
+        "publication_year": 1925
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "0987654321",
+        "publication_year": 1960
+    }
+]
